@@ -1,0 +1,11 @@
+[
+  {
+    "timestamp": "2025-11-17T07:32:28.131751",
+    "accuracy": 1.0,
+    "loss": 0.00019075287855230272,
+    "images_used": 21,
+    "epochs": 30,
+    "training_time_seconds": 48,
+    "report_dir": "/home/ubuntu/skin_cancer_classifier_k230_page/models/training_report_20251117_073140"
+  }
+]
